@@ -1,62 +1,49 @@
 {
-  "siteTitle": "The Biz Bud",
+  "siteTitle": "Secret Beauty Kempston",
   "logoUrl": "/images/logo.png",
   "hero": {
-    "headline": "Your Local Property Maintenance Experts",
-    "subheadline": "Reliable and affordable services including carpentry, flooring, painting, tiling, garden maintenance and more.",
-    "ctaText": "Get a Free Quote",
-    "ctaLink": "#contact",
-    "backgroundPatternName": "",
-    "backgroundImage": ""
-
+    "headline": "Welcome to Secret Beauty Kempston",
+    "subheadline": "One-on-one treatments in a judgement-free sanctuary—refresh, relax, and reveal your radiance.",
+    "ctaText": "Book Your Treatment",
+    "ctaLink": "#contact"
   },
   "about": {
-    "title": "About Us",
-    "description": "At L.M.P Property Services, we take pride in offering a wide range of home improvement and maintenance solutions. Whether you need a single room refresh or a full property renovation, our skilled team is here to help. With free quotes, competitive pricing, and a commitment to quality, we’re your go-to local choice for all property work.",
-    "image": "/images/about.jpg"
+    "title": "About Secret Beauty",
+    "description": "At Secret Beauty Kempston we believe every client deserves personalised care in a calm, confidential environment. Our expert therapists specialise in skin, body and nail treatments that rejuvenate and restore. Whether you’re looking for a quick pick-me-up or a full pamper session, our bespoke packages ensure you leave feeling confident and refreshed.",
+    "image": "/images/about-secret-beauty.jpg"
   },
   "services": {
-    "title": "Our Services",
+    "title": "Our Treatments",
     "items": [
       {
-        "title": "Carpentry",
-        "description": "Custom woodwork, framing, door installation, skirting boards, and bespoke shelving tailored to your needs.",
-        "iconName": "HammerIcon"
+        "title": "Signature Facial",
+        "description": "Tailored skincare using premium brands to cleanse, exfoliate and nourish your complexion for a radiant glow.",
+        "iconName": "SparklesIcon"
       },
       {
-        "title": "Tiling",
-        "description": "Wall and floor tiling for kitchens, bathrooms, and living areas using high-quality materials and precise installation.",
-        "iconName": "Squares2X2Icon"
+        "title": "Therapeutic Massage",
+        "description": "Choose from Swedish, deep tissue or hot stone massage to relieve tension, improve circulation and promote relaxation.",
+        "iconName": "HandRaisedIcon"
       },
       {
-        "title": "Painting & Decorating",
-        "description": "Interior and exterior painting, feature walls, wallpapering, and decorative finishes to refresh any space.",
-        "iconName": "PaintBrushIcon"
+        "title": "Waxing & Threading",
+        "description": "Precision hair removal for brows, lip, chin, legs and more—smooth results with gentle, professional care.",
+        "iconName": "ScissorsIcon"
       },
       {
-        "title": "Flat Pack Assembly",
-        "description": "Fast, reliable flat pack furniture assembly for homes and offices—everything from wardrobes to kitchen cabinets.",
-        "iconName": "PuzzlePieceIcon"
+        "title": "Manicure & Pedicure",
+        "description": "Luxury nail care with shaping, cuticle treatment and polish application for beautifully finished hands and feet.",
+        "iconName": "HandThumbUpIcon"
       },
       {
-        "title": "Flooring",
-        "description": "Expert installation of laminate, vinyl, hardwood, and carpet tile flooring with precise measurements and finishes.",
-        "iconName": "Square3Stack3DIcon"
+        "title": "Makeup Artistry",
+        "description": "Natural day looks or glam evening makeup using high-end cosmetics tailored to your style and skin tone.",
+        "iconName": "ColorSwatchIcon"
       },
       {
-        "title": "Fascia & Soffits",
-        "description": "Repair and replacement of fascia boards, soffits, and guttering to improve exterior appearance and longevity.",
-        "iconName": "TruckIcon"
-      },
-      {
-        "title": "Plastering",
-        "description": "Smooth skim finishes, patch repairs, drylining, and full-room re-plastering delivered by experienced plasterers.",
-        "iconName": "RectangleStackIcon"
-      },
-      {
-        "title": "Garden Maintenance",
-        "description": "General tidy-ups, garden waste removal, fence repairs, and lawn care to keep your outdoor space looking its best.",
-        "iconName": "LeafIcon"
+        "title": "Skin Consultation",
+        "description": "In-depth analysis and personalised advice on homecare routines, professional peels, and corrective treatments.",
+        "iconName": "AdjustmentsHorizontalIcon"
       }
     ]
   },
@@ -64,50 +51,52 @@
     "title": "Why Choose Us?",
     "items": [
       {
+        "iconName": "UserCircleIcon",
+        "title": "One-on-One Care",
+        "description": "Dedicated therapist for every appointment—no double-booking, just your full attention."
+      },
+      {
         "iconName": "ShieldCheckIcon",
-        "title": "Fully Insured & Qualified",
-        "description": "All work is completed by experienced professionals backed by public liability insurance and verified training."
+        "title": "Judgement-Free Zone",
+        "description": "A warm, welcoming space where you can relax, confident that your privacy and comfort come first."
       },
       {
-        "iconName": "CurrencyPoundIcon",
-        "title": "Free, No-Obligation Quotes",
-        "description": "We provide clear, upfront pricing with no hidden fees. You know exactly what to expect before work begins."
+        "iconName": "FireIcon",
+        "title": "Premium Products",
+        "description": "We use only top-tier skincare and cosmetic brands, selected for safety, efficacy and luxurious feel."
       },
       {
-        "iconName": "CheckBadgeIcon",
-        "title": "Commitment to Quality",
-        "description": "Our team takes pride in every project—attention to detail, reliable timelines, and a clean finish every time."
+        "iconName": "ClockIcon",
+        "title": "Flexible Scheduling",
+        "description": "Early, late and weekend appointments available to fit your busy lifestyle."
       }
     ]
   },
   "gallery": {
-    "title": "Our Work Gallery",
+    "title": "Our Studio",
     "images": [
-      "/images/gallery/dog1.jpg",
-      "/images/gallery/dog2.jpg",
-      "/images/gallery/dog3.jpg",
-      "/images/gallery/dog4.jpg",
-      "/images/gallery/dog5.jpg",
-      "/images/gallery/dog6.jpg"
+      "/images/gallery/secret1.jpg",
+      "/images/gallery/secret2.jpeg",
+      "/images/gallery/secret3.jpg"
     ]
   },
   "testimonials": {
-    "title": "What Our Clients Say",
+    "title": "Client Testimonials",
     "quotes": [
       {
-        "name": "Samantha L.",
-        "quote": "Quick, tidy, and reasonably priced. I’ve used L.M.P for painting and carpentry, and they’ve been excellent every time.",
-        "image": "/images/testimonial1.jpg"
+        "name": "Emma R.",
+        "quote": "My skin has never felt better—such a relaxing experience and the results lasted for weeks!",
+        "image": "/images/testimonial-girl1.jpg"
       },
       {
-        "name": "James R.",
-        "quote": "They tiled our kitchen and fitted new skirting—top-class finish and very friendly throughout. Highly recommend!",
-        "image": "/images/testimonial2.jpg"
+        "name": "Sophie M.",
+        "quote": "The perfect pamper session. I loved having the whole salon to myself and the service was impeccable.",
+        "image": "/images/testimonial-girl2.jpg"
       },
       {
-        "name": "Olivia K.",
-        "quote": "Wonderful service from start to finish. From the free quote to the final check, L.M.P made our home renovation stress-free.",
-        "image": "/images/testimonial3.jpg"
+        "name": "Laura T.",
+        "quote": "Friendly, professional and so welcoming. I always leave feeling like a new woman!",
+        "image": "/images/testimonial-man1.jpg"
       }
     ]
   },
@@ -115,31 +104,31 @@
     "title": "Frequently Asked Questions",
     "items": [
       {
-        "question": "Do you offer free quotes?",
-        "answer": "Yes. We visit your property, assess the work needed, and provide a detailed, no-obligation quote—always free of charge."
+        "question": "Do I need to book in advance?",
+        "answer": "Yes, we recommend booking at least 24 hours in advance to secure your preferred time and therapist."
       },
       {
-        "question": "What areas do you cover?",
-        "answer": "We serve Bedfordshire and the surrounding counties within a 30-mile radius. If you’re outside that area, just get in touch to check availability."
+        "question": "What should I bring to my first appointment?",
+        "answer": "Just yourself and any form of ID. We’ll provide everything else, including robes, towels and refreshments."
       },
       {
-        "question": "Can you handle multiple small jobs?",
-        "answer": "Absolutely. We frequently take on smaller tasks—call-outs, fixes, or one-off jobs—and we’ll bundle them into a single visit to save you time."
+        "question": "Are your products cruelty-free?",
+        "answer": "Absolutely. We only use and stock brands that are cruelty-free and ethically sourced."
       },
       {
-        "question": "Are you fully insured?",
-        "answer": "Yes. All of our craftsmen and subcontractors carry full public liability insurance, so you have peace of mind on every job."
+        "question": "What is your cancellation policy?",
+        "answer": "Please give us at least 12 hours’ notice. Late cancellations may incur a 50% charge of your booked treatment."
       }
     ]
   },
   "social": {
-    "facebook": "https://facebook.com/lmppropertyservices",
-    "instagram": "https://instagram.com/lmppropertyservices"
+    "facebook": "https://facebook.com/secretbeautykempston",
+    "instagram": "https://instagram.com/secretbeautykempston"
   },
   "contact": {
-    "title": "Request a Quote",
-    "description": "Call, message, or email us today to discuss your project. We’ll get back to you within 24 hours with a free estimate.",
-    "email": "contact@lmppropertyservices.co.uk",
-    "phone": "07359 663974"
+    "title": "Get in Touch",
+    "description": "Call, message or book online to schedule your personalised beauty session. We’re here to answer any questions.",
+    "email": "hello@secretbeautykempston.co.uk",
+    "phone": "01234 567890"
   }
 }
